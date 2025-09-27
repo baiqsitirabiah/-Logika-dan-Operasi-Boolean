@@ -1,4 +1,2 @@
-nama = input ("Baiq Siti Rabi'ah")
-print ("Halo Baiq Siti Rabi'ah") 
 nama = input ("Masukkan nama: ")
 print ("halo", nama )
