@@ -1,0 +1,4 @@
+print ("A U B =", A | B) # Union
+print ("A n B =", A & B) # Intersection
+print ("A - B =", A - B) # Difference
+print ("A O B =", A ^ B) # Symmetric Difference
