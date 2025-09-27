@@ -1,0 +1,22 @@
+a = 140
+b = 120
+print (a+b)
+print (b-a)
+d = a*b
+print(d)
+e = 6
+f = 3
+print (e/f)
+g = 7
+print (g//f)
+print (g/f)
+print (g%f)
+z = 5
+y = 3
+print (z/y)
+print (z%y)
+pangkat = z**y
+print(pangkat)
+p = 11
+q = 3
+print(p**q)
