@@ -1,0 +1,3 @@
+print("p =", True," , q =", True,", ~q =", not True," => p V ~q =" , True or not True)
+print("p =", False," , q =", True,", ~q =", not True," => p V ~q =", False or not True)
+print("p =", False," , q =", False,", ~q =", not False," => p V ~q =", False or not False)
